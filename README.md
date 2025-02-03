@@ -28,6 +28,4 @@ Hi, I'm **Mohd Sahbaz**, a passionate MERN stack developer. I enjoy building res
 ## 🔝 Top Contributed Repo
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=MohdSahbaz&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=MohdSahbaz&icon=5&color=0)](https://visitcount.itsvg.in)
-
 </div>
