@@ -22,7 +22,3 @@ A passionate **MERN stack** developer. I enjoy building responsive, modern web a
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohdSahbaz&theme=radical&hide_border=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdSahbaz&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=MohdSahbaz&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
