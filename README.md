@@ -1,7 +1,7 @@
 <div align="">
 
-# 💫 About Me
-Hi, I'm **Mohd Sahbaz**, a passionate MERN stack developer. I enjoy building responsive, modern web applications with a focus on creating seamless user experiences. Let's collaborate and create something amazing!
+# Hi 👋, I'm Sahbaz
+a passionate MERN stack developer. I enjoy building responsive, modern web applications with a focus on creating seamless user experiences. Let's collaborate and create something amazing!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sahbaz-chaudhary)
