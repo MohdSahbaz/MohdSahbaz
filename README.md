@@ -30,9 +30,3 @@ A passionate **MERN stack** developer. I enjoy building responsive, modern web a
 
 ![Snake animation](https://github.com/MohdSahbaz/MohdSahbaz/blob/output/github-contribution-grid-snake.svg)
 
----
-
-**Note:** You can add the snake animation to your README by following these instructions:
-1. Visit [this GitHub repository](https://github.com/Platane/snk) to get your custom snake animation.
-2. Follow the instructions there to enable the snake animation in your profile.
-
