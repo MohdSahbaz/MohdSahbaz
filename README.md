@@ -1,7 +1,5 @@
-<div align="">
-
 # Hi 👋, I'm Sahbaz
-a passionate MERN stack developer. I enjoy building responsive, modern web applications with a focus on creating seamless user experiences. Let's collaborate and create something amazing!
+A passionate **MERN stack** developer. I enjoy building responsive, modern web applications with a focus on creating seamless user experiences. Let's collaborate and create something amazing!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sahbaz-chaudhary)
@@ -28,4 +26,13 @@ a passionate MERN stack developer. I enjoy building responsive, modern web appli
 ## 🔝 Top Contributed Repo
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=MohdSahbaz&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-</div>
+## 🐍 Snake Game
+
+![Snake animation](https://github.com/MohdSahbaz/MohdSahbaz/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+**Note:** You can add the snake animation to your README by following these instructions:
+1. Visit [this GitHub repository](https://github.com/Platane/snk) to get your custom snake animation.
+2. Follow the instructions there to enable the snake animation in your profile.
+
