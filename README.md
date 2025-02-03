@@ -4,7 +4,7 @@
 Hi, I'm **Mohd Sahbaz**, a passionate MERN stack developer. I enjoy building responsive, modern web applications with a focus on creating seamless user experiences. I'm always eager to learn new technologies and improve my skills. Let's collaborate and create something amazing!
 
 ## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdSahbaz) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MohdSahbaz)
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
