@@ -26,7 +26,3 @@ A passionate **MERN stack** developer. I enjoy building responsive, modern web a
 ## 🔝 Top Contributed Repo
 ![Top Repo](https://github-contributor-stats.vercel.app/api?username=MohdSahbaz&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## 🐍 Snake Game
-
-![Snake animation](https://github.com/MohdSahbaz/MohdSahbaz/blob/output/github-contribution-grid-snake.svg)
-
