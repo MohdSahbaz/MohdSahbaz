@@ -20,7 +20,9 @@ A passionate **MERN stack** developer. I enjoy building responsive, modern web a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohdSahbaz&theme=radical&hide_border=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=MohdSahbaz&theme=radical&hide_border=true
+)<br/>
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdSahbaz&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <picture>
