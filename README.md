@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohd Sahbaz</h1>
+<h1 align="left">Hi 👋, I'm Mohd Sahbaz</h1>
 
-<p align="center">
+<p align="left">
   A passionate <strong>MERN Stack Developer</strong> focused on building modern, scalable, and responsive web applications. I enjoy crafting clean UIs, solving real-world problems, and continuously improving my skills.
 </p>
 
@@ -17,7 +17,7 @@
 
 <hr>
 
-<h2>🌐 Portfolio & Links</h2>
+<h3>🌐 Portfolio & Links</h3>
 
 <p>
   🔗 <a href="https://sahbaz.onrender.com/" target="_blank"><strong>My Portfolio Website</strong></a><br/>
