@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohd Sahbaz</h1>
 
 <p align="left">
-  I'm a passionate <strong>Full Stack Developer</strong> with hands-on experience in the <strong>MERN stack</strong> and currently diving deep into <strong>Spring Boot</strong>. I enjoy building clean, modern, and scalable web applications that solve real-world problems. I'm constantly learning, exploring new technologies, and striving to become a better developer every day.
+  I'm a passionate <strong>Software Developer</strong> with hands-on experience in the <strong>MERN stack</strong> and currently diving deep into <strong>Spring Boot</strong>. I enjoy building clean, modern, and scalable web applications that solve real-world problems. I'm constantly learning, exploring new technologies, and striving to become a better developer every day.
 </p>
 
 <hr/>
