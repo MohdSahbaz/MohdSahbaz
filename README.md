@@ -1,29 +1,30 @@
 <h1 align="left">Hi 👋, I'm Mohd Sahbaz</h1>
 
 <p align="left">
-  A passionate <strong>MERN Stack Developer</strong> focused on building modern, scalable, and responsive web applications. I enjoy crafting clean UIs, solving real-world problems, and continuously improving my skills.
+  I'm a passionate <strong>Full Stack Developer</strong> with hands-on experience in the <strong>MERN stack</strong> and currently diving deep into <strong>Spring Boot</strong>. I enjoy building clean, modern, and scalable web applications that solve real-world problems. I'm constantly learning, exploring new technologies, and striving to become a better developer every day.
 </p>
 
-<hr>
+<hr/>
 
 <h2>🛠️ Tech Stack</h2>
 
 <p>
   <strong>Frontend:</strong> HTML, CSS, Tailwind CSS, JavaScript, React.js, Vite<br/>
-  <strong>Backend:</strong> Node.js, Express.js<br/>
+  <strong>Backend:</strong> Node.js, Express.js, <em>Spring Boot</em><br/>
   <strong>Database:</strong> MongoDB<br/>
-  <strong>Tools:</strong> Git, GitHub, Postman
+  <strong>Tools & Others:</strong> Git, GitHub, Postman
 </p>
 
-<hr>
+<hr/>
 
-<h3>🌐 Portfolio & Links</h3>
+<h2>🌐 Portfolio & Links</h2>
 
 <p>
-  🔗 <a href="https://sahbaz.onrender.com/" target="_blank"><strong>My Portfolio Website</strong></a><br/>
-  💼 <a href="https://www.linkedin.com/in/mohd-sahbaz-chaudhary" target="_blank">LinkedIn</a>
+  🔗 <a href="https://sahbaz.onrender.com/" target="_blank"><strong>Portfolio Website</strong></a><br/>
+  💼 <a href="https://www.linkedin.com/in/mohd-sahbaz-chaudhary" target="_blank">LinkedIn</a><br/>
+  📧 <a href="mailto:csahbaz188@gmail.com">csahbaz188@gmail.com</a>
 </p>
 
-<hr>
+<hr/>
 
-<p align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
+<p align="center"><em>"The best way to predict the future is to build it."</em></p>
