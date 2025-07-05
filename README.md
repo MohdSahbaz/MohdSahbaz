@@ -9,10 +9,10 @@
 <h2>🛠️ Tech Stack</h2>
 
 <p>
-  <strong>Frontend:</strong> HTML, CSS, Tailwind CSS, JavaScript, React.js, Vite<br/>
+  <strong>Frontend:</strong> HTML, CSS, Tailwind CSS, JavaScript, React.js<br/>
   <strong>Backend:</strong> Node.js, Express.js, Java, <em>Spring Boot</em><br/>
   <strong>Database:</strong> MongoDB<br/>
-  <strong>Tools & Others:</strong> Git, GitHub, Postman
+  <strong>Tools & Others:</strong> Git, GitHub, Postman, Vite
 </p>
 
 <hr/>
