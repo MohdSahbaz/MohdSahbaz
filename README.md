@@ -10,7 +10,7 @@
 
 <p>
   <strong>Frontend:</strong> HTML, CSS, Tailwind CSS, JavaScript, React.js<br/>
-  <strong>Backend:</strong> Node.js, Express.js, Java, Spring Boot<br/>
+  <strong>Backend:</strong> Node.js, Express.js, Java, Spring Boot, C#, .NET Core<br/>
   <strong>Database:</strong> MongoDB, MySql<br/>
   <strong>Tools & Others:</strong> Git, GitHub, Postman, Vite, Swagger
 </p>
