@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mohd Sahbaz</h1>
 
 <p align="left">
-  I'm a passionate <strong>Software Developer</strong>with hands-on experience in the <strong>MERN stack and Spring Boot</strong>, and currently expanding my skills by learning <strong>Django</strong>. I enjoy building clean, modern, and scalable web applications that solve real-world problems. I'm always eager to explore new technologies and continuously improve as a developer.
+  I'm a passionate <strong>Software Developer</strong>with hands-on experience in the <strong>MERN stack and Spring Boot</strong>, and currently expanding my skills by learning <strong>.NET Core</strong>. I enjoy building clean, modern, and scalable web applications that solve real-world problems. I'm always eager to explore new technologies and continuously improve as a developer.
 </p>
 
 <hr/>
