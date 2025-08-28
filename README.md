@@ -1,16 +1,17 @@
 <h1 align="left">Hi 👋, I'm Mohd Sahbaz</h1>
 
 <p align="left">
-  I'm a passionate <strong>Software Developer</strong>with hands-on experience in the <strong>MERN stack and Spring Boot</strong>, and currently expanding my skills by learning <strong>.NET Core</strong>. I enjoy building clean, modern, and scalable web applications that solve real-world problems. I'm always eager to explore new technologies and continuously improve as a developer.
+  I'm a passionate <strong>Software Developer</strong> with hands-on experience in the <strong>MERN stack and Spring Boot</strong>. I love creating clean, modern, and scalable web applications that solve real-world problems. I'm always excited to explore new technologies and continuously grow as a developer.
 </p>
+
 
 <hr/>
 
 <h2>🛠️ Tech Stack</h2>
 
 <p>
-  <strong>Frontend:</strong> HTML, CSS, Tailwind CSS, JavaScript, React.js<br/>
-  <strong>Backend:</strong> Node.js, Express.js, Java, Spring Boot, C#, .NET Core<br/>
+  <strong>Frontend:</strong> HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, Next.js<br/>
+  <strong>Backend:</strong> Node.js, Express.js, Java, Spring Boot<br/>
   <strong>Database:</strong> MongoDB, MySql<br/>
   <strong>Tools & Others:</strong> Git, GitHub, Postman, Vite, Swagger
 </p>
