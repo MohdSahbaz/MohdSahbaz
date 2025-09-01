@@ -22,7 +22,6 @@
 
 <p>
   🔗 <a href="https://sahbaz.onrender.com/" target="_blank"><strong>Portfolio Website</strong></a><br/>
-  💼 <a href="https://www.linkedin.com/in/mohd-sahbaz-chaudhary" target="_blank">LinkedIn</a><br/>
   📧 <a href="mailto:csahbaz188@gmail.com">csahbaz188@gmail.com</a>
 </p>
 
