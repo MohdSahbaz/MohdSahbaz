@@ -18,13 +18,13 @@
 
 <hr/>
 
-<h2>🌐 Portfolio & Links</h2>
+<!-- <h2>🌐 Portfolio & Links</h2>
 
-<p>
+<!-- <p> -->
   <!-- 🔗 <a href="https://www.devmynt.in/" target="_blank"><strong>Portfolio Website</strong></a><br/> -->
-  📧 <a href="mailto:sahbaz.dev@gmail.com">sahbaz.dev@gmail.com</a>
-</p>
+ <!-- 📧 <a href="mailto:sahbaz.dev@gmail.com">sahbaz.dev@gmail.com</a> -->
+<!-- </p> --> -->
 
-<hr/>
+<!-- <hr/> -->
 
 <p align="center"><em>"The best way to predict the future is to build it."</em></p>
