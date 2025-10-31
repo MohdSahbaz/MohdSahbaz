@@ -21,8 +21,8 @@
 <h2>🌐 Portfolio & Links</h2>
 
 <p>
-  🔗 <a href="https://www.devmynt.in/" target="_blank"><strong>Portfolio Website</strong></a><br/>
-  📧 <a href="mailto:csahbaz188@gmail.com">csahbaz188@gmail.com</a>
+  <!-- 🔗 <a href="https://www.devmynt.in/" target="_blank"><strong>Portfolio Website</strong></a><br/> -->
+  📧 <a href="mailto:sahbaz.dev@gmail.com">sahbaz.dev@gmail.com</a>
 </p>
 
 <hr/>
